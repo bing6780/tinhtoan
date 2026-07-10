@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+}
+
+input {
+    width: 120px;
+    padding: 5px;
+}
+
+button {
+    padding: 8px 15px;
+}
+
+h3 {
+    color: blue;
+}
